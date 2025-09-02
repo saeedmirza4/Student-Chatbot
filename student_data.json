@@ -1,0 +1,118 @@
+{
+  "subjects": {
+    "Math": [
+      8.5
+    ],
+    "Mathematics": [
+      8.5
+    ],
+    "Physics": [
+      9.2
+    ],
+    "Chemistry": [
+      7.8
+    ],
+    "Computer Science": [
+      9.5
+    ]
+  },
+  "reminders": [
+    {
+      "task": "study",
+      "time": "12:46pm today",
+      "created": "2025-08-31 12:45",
+      "completed": false
+    },
+    {
+      "task": "set rem",
+      "time": "in 5 minutes (default)",
+      "due_datetime": "2025-08-31T12:55:03.466038",
+      "created": "2025-08-31 12:50",
+      "completed": false,
+      "notified": true
+    },
+    {
+      "task": "test notific",
+      "time": "in 1 minutes",
+      "due_datetime": "2025-08-31T12:59:26.961023",
+      "created": "2025-08-31 12:58",
+      "completed": false,
+      "notified": true
+    },
+    {
+      "task": "set rem",
+      "time": "in 5 minutes (default)",
+      "due_datetime": "2025-08-31T13:03:50.177612",
+      "created": "2025-08-31 12:58",
+      "completed": false,
+      "notified": true
+    },
+    {
+      "task": "show rem",
+      "time": "in 5 minutes (default)",
+      "due_datetime": "2025-08-31T13:05:49.040966",
+      "created": "2025-08-31 13:00",
+      "completed": false,
+      "notified": true
+    },
+    {
+      "task": "homework deadline",
+      "time": "at 21:00",
+      "due_datetime": "2025-08-31T21:00:00",
+      "created": "2025-08-31 13:01",
+      "completed": false,
+      "notified": false
+    }
+  ],
+  "goals": [
+    {
+      "goal": "study 3 hours daily",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "study 3 hours daily",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "improve CGPA to 9.0",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "show s",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "my s",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "list my s",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "show my s",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    },
+    {
+      "goal": "master Python programming",
+      "created": "2025-08-31",
+      "progress": 0,
+      "target": 100
+    }
+  ],
+  "study_sessions": []
+}

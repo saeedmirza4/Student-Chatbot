@@ -1,0 +1,13 @@
+# Requirements for Student Helper Chatbot
+# This file lists the Python packages our chatbot needs
+
+# For FREE AI capabilities (Milestone 2):
+transformers>=4.30.0
+torch>=2.0.0
+accelerate>=0.20.0
+
+# Alternative: For OpenAI (costs money but very good):
+# openai>=1.0.0
+
+# Future packages we'll add later:
+# python-dateutil (for reminder features in Milestone 3)
